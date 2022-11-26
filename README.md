@@ -1,8 +1,28 @@
-# Vue 3 + Vite
+# Consumming api using vue, bootstrap css and axios
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+## Project setup
+```
+yarn install
+```
 
-## Recommended IDE Setup
+### Compiles and hot-reloads for development
+```
+yarn serve
+```
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar)
-"# consumming-api-vuejs-bootstrap" 
+### Compiles and minifies for production
+```
+yarn build
+```
+
+### Lints and fixes files
+```
+yarn lint
+```
+
+## Project image 
+![image](https://user-images.githubusercontent.com/30128774/200202065-69f3a7fe-19e4-427d-ae4b-0efe229af646.png)
+
+
+### API URL used in this project
+https://jsonplaceholder.typicode.com/users

@@ -6,6 +6,11 @@
 
 
 
+### API URL used in this project
+https://jsonplaceholder.typicode.com/users
+
+
+
 ## Project setup
 ```
 yarn install
@@ -27,6 +32,3 @@ yarn lint
 ```
 
 
-
-### API URL used in this project
-https://jsonplaceholder.typicode.com/users

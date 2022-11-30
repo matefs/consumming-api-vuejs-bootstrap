@@ -5,6 +5,10 @@
 ![consumindo api vuejs bootstrap](https://user-images.githubusercontent.com/30128774/204067314-fd6df986-4ddf-4eac-ae3e-f8fc26a74e46.gif)
 
 
+### Acess this project online
+
+https://jh4twy.sse.codesandbox.io/
+
 
 ### API URL used in this project
 https://jsonplaceholder.typicode.com/users
